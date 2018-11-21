@@ -1,0 +1,32 @@
+html body{
+  background: #e9ecef;
+}
+.app{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.navbar-brand{
+  margin: 10px 22px 22px 10px;
+}
+.peserta{
+  margin-top: 10px;
+
+}
+
+
+.bg-gray{
+  background-color: rgb(245,245,245);
+}
+
+.card-form{
+  padding: 16px 26px;
+  width: 50%;
+}
+
+.custom-file-label{
+  margin-right: 2%;
+}
